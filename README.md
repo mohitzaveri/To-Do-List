@@ -1,6 +1,7 @@
 
 ## Simple Todo List App Docs
 
+
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
